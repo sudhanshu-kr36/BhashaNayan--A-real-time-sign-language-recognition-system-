@@ -1,0 +1,1 @@
+    Timer(1, open_browser).start()
